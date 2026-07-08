@@ -80,6 +80,7 @@ Initial public release of **re:Optimized Vanilla**.
 This is the first stable public release of **re:Optimized Vanilla**, designed to enhance performance, visuals, and quality of life while preserving the authentic vanilla Minecraft experience.
 ---
 
+---
 ## re:Optimized Vanilla v1.0.1
 **Minecraft:** 26.1.2
 
