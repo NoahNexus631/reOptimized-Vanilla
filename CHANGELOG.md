@@ -1,6 +1,7 @@
 # Changelog
 
 ## re:Optimized Vanilla v1.0.0
+Date: **5/7/2026**
 **Minecraft:** 26.1.2
 
 Initial public release of **re:Optimized Vanilla**.
@@ -82,6 +83,7 @@ This is the first stable public release of **re:Optimized Vanilla**, designed to
 
 ---
 ## re:Optimized Vanilla v1.0.1
+Date : **8/7/2026**
 **Minecraft:** 26.1.2
 
 This update focuses on restoring a completely vanilla world generation experience while improving overall compatibility.
